@@ -22,7 +22,7 @@
 - der Server eine aktive Community hat  
 - der Server keinen verdächtigen Zwecken dient  
 - der Server nicht mit Apps wie Leet, PlayMC, etc. erstellt wurde  
-- der Server von @LeNick, @Aku oder @jarne besichtigt und analysiert wurde  
+- der Server von LeNick, LookItsAku oder jarne besichtigt und analysiert wurde  
 - der Server bereits öffentlich läuft und sich nicht mehr in der Aufbauphase befindet
 
 [Der Antrag kann an das Management gestellt werden. Eine ausführliche Bewerbung per Direktnachricht ist wünschenswert.]
@@ -34,9 +34,15 @@
 - der Server eine eigenständige Domain besitzt  
 - der Zeitraum zwischen dem letzten Werbebeitrag und dem Aktuellen zwei Tage beträgt
 
-3.2 Werbung für YT-Kanäle ist erlaubt, wenn:
+3.2 Werbung für andere Discord-Server ist gestattet, wenn:
 
-- nicht nach Abonnenten gebettelt wird  
+- der Server in Verbindung mit einem Minecraft: Bedrock-Server steht  
+- der Server keinen betrügerischen Absichten nachgeht
+- der Zeitraum zwischen dem letzten Werbebeitrag und dem Aktuellen zwei Tage beträgt
+
+3.3 Werbung für YT-Kanäle ist gestattet, wenn:
+
+- nicht nach Abonnenten gebettelt wird (dies gilt auch für entsprechende Links, die den Nutzer das Abonnement "aufzwingen") 
 - der Kanal größtenteils Videos präsentiert, die mit Minecraft: Bedrock Edition im Zusammenhang stehen  
 - der Kanal keine verdächtigen Inhalte, wie zum Beispiel, anstößiges Material oder Betrugsmethoden etc. enthält  
 - der Zeitraum zwischen dem letzten Werbebeitrag und dem Aktuellen zwei Tage beträgt
