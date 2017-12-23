@@ -32,7 +32,7 @@
 
 - der Server ein Minecraft: Bedrock Server ist  
 - der Server eine eigenständige Domain besitzt  
-- der Zeitraum zwischen dem letzten Werbebeitrag und dem Aktuellen zwei Tage beträgt
+- der Zeitraum zwischen dem letzten Werbebeitrag und dem aktuellen zwei Tage beträgt
 
 3.2 Werbung für andere Discord-Server ist gestattet, wenn:
 
